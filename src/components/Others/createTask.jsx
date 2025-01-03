@@ -1,6 +1,6 @@
 import React from "react";
 
-const createTask = () => {
+const CreateTask = () => {
   return (
     <div className=" p-5 bg-[#1c1c1c] mt-7 rounded">
       <form className="flex flex-wrap w-full bg-black-200 items-start justify-between">
@@ -56,4 +56,4 @@ const createTask = () => {
   );
 };
 
-export default createTask;
+export default CreateTask;
