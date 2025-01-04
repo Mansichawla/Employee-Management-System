@@ -6,8 +6,8 @@ import "./App.css";
 const App = () => {
   return (
     <>
-      {/* <Login /> */}
-      <EmployeeDashboard />
+      <Login />
+      {/* <EmployeeDashboard /> */}
       {/* <AdminDashboard /> */}
     </>
   );
